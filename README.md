@@ -27,14 +27,16 @@ Welcome to my portfolio, where I showcase selected projects focused on data anal
 
 <h2>🛠️ Tools</h2>
 <ul>
-  <li><strong>Excel</strong></li>
+  <li><strong>Excel, R</strong></li>
   <li><strong>Languages:</strong> SQL, Python</li>
   <li><strong>Visualization:</strong> Tableau, Looker Studio, Power BI</li>
 </ul>
 
 <h2>👋🏻 Connect with Me</h2>
 <p>
-<a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
-vlntnalj@gmail.com 
-  
+🌎 <strong>Languages:</strong> Spanish (Native), English (Advanced), Portuguese (Intermediate)<br>
+🔗 <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a><br>
+📧 <a href="mailto:vlntnalj@gmail.com">vlntnalj@gmail.com</a>
 </p>
+
+
