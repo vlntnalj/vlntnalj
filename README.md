@@ -1,16 +1,28 @@
-## Hi there 👋
+#🙋🏻‍♀️ Introducing Myself
 
 <!--
-**vlntnalj/vlntnalj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! Welcome to my Data Analytics Portfolio. Here you will find a selection of my data analytics work.
 
-Here are some ideas to get you started:
+Query, clean, and analyze data using SQL to support business and analytical needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Perform ad-hoc data analysis and generate reports to answer specific questions.
+
+Build and maintain dashboards using Tableau and Power BI to visualize trends and key metrics.
+
+Analyze data and prepare reports using Excel and Google Sheets (formulas, pivot tables, data organization).
+
+Identify patterns and insights in data to support data-driven decision-making.
+
+Collaborate with different stakeholders to understand data requirements and reporting needs. 
+
+📚 Projects
+Welcome to my portfolio, where I showcase my projects.
+
+🛠️ Tools
+Language: SQL, Python
+Database: Google BigQuery, PostgreSQL, MySQL
+Visualization: Tableau, Looker Studio
+
+👋🏻 Connect with Me
+Linkedin
 -->
