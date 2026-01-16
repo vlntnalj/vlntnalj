@@ -1,7 +1,6 @@
 #🙋🏻‍♀️ Introducing Myself
 
-<!--
-Hello! Welcome to my Data Analytics Portfolio. Here you will find a selection of my data analytics work.
+Hello! My name is Valentina, a Chilean Data Analyst with a background in Urban Planning and Programming, experienced in data analysis and dashboard development. Skilled in tools such as Python, SQL, Power BI, R, Excel, and Tableau, transforming data into actionable insights to support decision-making. I am analytical, proactive, and adaptable, with a strong motivation for continuous learning.
 
 Query, clean, and analyze data using SQL to support business and analytical needs.
 
@@ -25,4 +24,4 @@ Visualization: Tableau, Looker Studio
 
 👋🏻 Connect with Me
 Linkedin
--->
+#-->
