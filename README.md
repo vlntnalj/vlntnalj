@@ -22,7 +22,8 @@ I am analytical, proactive, adaptable, and strongly motivated by continuous lear
 
 <h2>📚 Projects</h2>
 <p>
-Welcome to my portfolio, where I showcase selected projects focused on data analysis and visualization.
+Welcome to my portfolio, where I showcase selected projects focused on data analysis and visualization.<br>
+🔗 <a href="https://vlntnalj.github.io/Portfolio/" target="_blank"><strong>View my Portfolio on GitHub</strong></a>
 </p>
 
 <h2>🛠️ Tools</h2>
